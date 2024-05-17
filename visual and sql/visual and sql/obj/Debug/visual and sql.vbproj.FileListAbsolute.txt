@@ -1,0 +1,26 @@
+C:\Users\NV_User\Desktop\مشروع جيم بال sql\visual and sql\visual and sql\bin\Debug\visual and sql.exe.config
+C:\Users\NV_User\Desktop\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual_and_sql.Form1.resources
+C:\Users\NV_User\Desktop\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual_and_sql.Resources.resources
+C:\Users\NV_User\Desktop\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual and sql.vbproj.GenerateResource.Cache
+C:\Users\NV_User\Desktop\مشروع جيم بال sql\visual and sql\visual and sql\bin\Debug\visual and sql.exe
+C:\Users\NV_User\Desktop\مشروع جيم بال sql\visual and sql\visual and sql\bin\Debug\visual and sql.pdb
+C:\Users\NV_User\Desktop\مشروع جيم بال sql\visual and sql\visual and sql\bin\Debug\visual and sql.xml
+C:\Users\NV_User\Desktop\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual and sql.exe
+C:\Users\NV_User\Desktop\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual and sql.xml
+C:\Users\NV_User\Desktop\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual and sql.pdb
+F:\مشروع جيم بال sql\visual and sql\visual and sql\bin\Debug\visual and sql.exe.config
+F:\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual and sql.exe
+F:\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual and sql.xml
+F:\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual and sql.pdb
+D:\Projects\مشروع جيم بال sql\visual and sql\visual and sql\bin\Debug\visual and sql.exe.config
+D:\Projects\مشروع جيم بال sql\visual and sql\visual and sql\bin\Debug\visual and sql.exe
+D:\Projects\مشروع جيم بال sql\visual and sql\visual and sql\bin\Debug\visual and sql.pdb
+D:\Projects\مشروع جيم بال sql\visual and sql\visual and sql\bin\Debug\visual and sql.xml
+D:\Projects\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual and sql.vbprojAssemblyReference.cache
+D:\Projects\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual_and_sql.Form1.resources
+D:\Projects\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual_and_sql.Resources.resources
+D:\Projects\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual and sql.vbproj.GenerateResource.cache
+D:\Projects\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual and sql.vbproj.CoreCompileInputs.cache
+D:\Projects\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual and sql.exe
+D:\Projects\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual and sql.xml
+D:\Projects\مشروع جيم بال sql\visual and sql\visual and sql\obj\Debug\visual and sql.pdb
